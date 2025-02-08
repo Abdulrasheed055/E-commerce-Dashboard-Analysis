@@ -73,8 +73,6 @@ To analyze key performance metrics of an e-commerce business, identify trends, e
 21. **Sales Target**: 90% achieved; the shortfall is $50,000.
 22. **Order Target**: 95% achieved; the shortfall is 500 orders.
 23. **Customer Target**: 85% achieved; the shortfall is 750 customers.
-
-### **Engagement KPIs:**
 24. **Return Customer Rate**: 30% of customers are repeat buyers.
 25. **Average Order Processing Time**: 2 days.
 
