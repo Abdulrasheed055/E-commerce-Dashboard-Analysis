@@ -84,7 +84,7 @@ To analyze key performance metrics of an e-commerce business, identify trends, e
 24. **Return Customer Rate**: 30% of customers are repeat buyers.
 25. **Average Order Processing Time**: 2 days.
 
-
+![dashboard](https://github.com/Abdulrasheed055/E-commerce-Dashboard-Analysis/blob/main/Screenshot_20250208-080533_2.jpg)
 ### Recommendations:
 1. **Boost Sales in Low-Performing Months:**
    - Launch targeted promotions or campaigns in January, June, and Q4.
