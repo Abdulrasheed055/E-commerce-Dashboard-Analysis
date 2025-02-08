@@ -44,8 +44,6 @@ To analyze key performance metrics of an e-commerce business, identify trends, e
 21. What percentage of the **sales target** has been achieved?
 22. What percentage of the **order target** has been achieved?
 23. How far are we from achieving the **customer target**?
-
-### **Engagement KPIs (if applicable):**
 24. What is the **return customer rate** (percentage of repeat customers)?
 25. How long does it take on average to process and deliver orders?
 
