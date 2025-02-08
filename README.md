@@ -21,7 +21,7 @@ To analyze key performance metrics of an e-commerce business, identify trends, e
 6. **Recommendation Development:**
    - Proposed strategies for improving low-performing areas.
   
- ##** Questions Key Performance Indicator (KPI) questions**
+ ##**Questions Key Performance Indicator (KPI) questions**
 
 ### **Sales and Revenue KPIs:**
 1. What is the **total sales amount**, and how does it compare to the target?
@@ -85,6 +85,7 @@ To analyze key performance metrics of an e-commerce business, identify trends, e
 25. **Average Order Processing Time**: 2 days.
 
 ![dashboard](https://github.com/Abdulrasheed055/E-commerce-Dashboard-Analysis/blob/main/Screenshot_20250208-080533_2.jpg)
+![dashboard](https://github.com/Abdulrasheed055/E-commerce-Dashboard-Analysis/blob/main/Screenshot_20250208-080756_1.jpg)
 ### Recommendations:
 1. **Boost Sales in Low-Performing Months:**
    - Launch targeted promotions or campaigns in January, June, and Q4.
