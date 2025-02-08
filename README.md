@@ -20,7 +20,7 @@ To analyze key performance metrics of an e-commerce business, identify trends, e
 6. **Recommendation Development:**
    - Proposed strategies for improving low-performing areas.
   
- ##**Questions Key Performance Indicator (KPI) questions**
+ ## **Questions Key Performance Indicator (KPI) questions**
 1. What is the **total sales amount**, and how does it compare to the target?
 2. What is the **monthly sales trend**? Are there seasonal fluctuations?
 3. Which **quarter** generated the highest and lowest sales?
@@ -51,7 +51,6 @@ To analyze key performance metrics of an e-commerce business, identify trends, e
 
 ## Answers to answer the KPI questions from the E-commerce Dashboard Analysis
 
-### **Sales and Revenue KPIs:**
 1. **Total Sales Amount**: $500,000 (for example). Achieved 90% of the target.
 2. **Monthly Sales Trend**: Sales peak in November and December due to holiday shopping, with a dip in February.
 3. **Quarterly Sales**: Q4 had the highest sales, contributing 40% of total revenue, while Q1 had the lowest at 20%.
