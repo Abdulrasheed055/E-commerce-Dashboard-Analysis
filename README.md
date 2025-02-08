@@ -7,8 +7,7 @@ To analyze key performance metrics of an e-commerce business, identify trends, e
    - Gathered e-commerce sales data, including sales amount, orders, customers, and product categories.
 
 2. **Data Processing and Visualization:**
-   - Used advanced tools like Excel, Power BI, or Tableau to create interactive dashboards and visualizations.
-
+   - i use power bi 
 3. **Trend Analysis:**
    - Analyzed monthly, quarterly, and category-specific performance trends.
 
@@ -22,8 +21,6 @@ To analyze key performance metrics of an e-commerce business, identify trends, e
    - Proposed strategies for improving low-performing areas.
   
  ##**Questions Key Performance Indicator (KPI) questions**
-
-### **Sales and Revenue KPIs:**
 1. What is the **total sales amount**, and how does it compare to the target?
 2. What is the **monthly sales trend**? Are there seasonal fluctuations?
 3. Which **quarter** generated the highest and lowest sales?
